@@ -1,0 +1,7 @@
+Bot: I am Bot. I will answer your queries about site. If you want to exit, type bye.
+User: Hello
+Bot: hey
+User: What is the volume of the crypto market?
+Bot: However, the total crypto market volume tanked up to 8 per cent to $87.71 billion.NFT market saw a major volume spike yesterday on open-sea, which indicates that the market could have already found the bottom, and now it’s ready for a fresh bull cycle, said Hitesh Malviya, founder, itsblockchain.com "A couple of notable NFT collections like doodle, mutant ape yacht club are up by 80-90 per cent in the past two days. However, the gains were marginal.The global crypto market cap jumped about 2 per cent to $2.87 trillion mark compared to the last day. However, the healthier dollar capped gains.Barring the two stablecoins and Cardano, seven out of the top 10 cryptocurrencies were trading higher at 9.30 hours IST.
+User: Bye
+Bot: Chat with you later!
